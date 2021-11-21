@@ -1,0 +1,106 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.header {
+  padding: 1.6%;
+  background-color: rgb(55, 137, 214);
+  color: white;
+  width: 15%;
+  position: absolute;
+  position: fixed;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+.menu {
+  float: left;
+  margin-top: 12%;
+  margin-left: 3%;
+  position: fixed;
+}
+.menu ul li {
+  padding: 8%;
+  list-style-type: none;
+  color: rgb(29, 62, 93);
+  font-weight: bolder;
+  cursor: pointer;
+}
+.menu a {
+  margin-left: 7%;
+  list-style-type: none;
+  color: rgb(29, 62, 93);
+  font-weight: bolder;
+  font-size: larger;
+  padding: 5%;
+  text-decoration: none;
+}
+.heading {
+  margin-left: 18%;
+  padding: 4%;
+}
+.heading h4 {
+  margin-left: 2%;
+}
+.heading h3 {
+  font-size: xx-large;
+  padding: 1%;
+}
+.menu2 {
+  margin-top: 5%;
+}
+.menu2 span {
+  margin-left: 1%;
+  font-weight: bolder;
+  font-size: small;
+  cursor: pointer;
+}
+.menu3 {
+  margin-top: 3%;
+}
+.menu3 span {
+  margin-left: 1%;
+  font-weight: bolder;
+  font-size: small;
+  cursor: pointer;
+}
+.products {
+  margin-top: 5%;
+  font-weight: bold;
+  cursor: pointer;
+}
+.products-images {
+  margin-top: 5%;
+  display: flex;
+}
+.products-images img {
+  width: 90%;
+}
+.column .sp1 {
+  margin-top: 2%;
+  margin-left: 10%;
+}
+.column2 .sp1 {
+  margin-top: 2%;
+  margin-left: 10%;
+}
+.products-images p {
+  margin-top: 1%;
+  margin-left: 10%;
+}
+.products-images2 {
+  margin-top: 5%;
+  display: flex;
+}
+.products-images2 img {
+  width: 90%;
+}
+.column .sp1 {
+  margin-top: 2%;
+  margin-left: 10%;
+}
+.products-images2 p {
+  margin-top: 1%;
+  margin-left: 10%;
+}
